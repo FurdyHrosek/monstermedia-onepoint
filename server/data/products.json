@@ -1,0 +1,33 @@
+{
+    "en": [
+        { 
+            "id": 1, 
+            "name": "Figure", 
+            "description": "A figurine by the artist Jan Kaláb himself, created in 3D printing, hand-sprayed, in an original box.",
+            "price": {
+                "eur": 36.99,
+                "czk": 900
+            },
+            "image": {
+                "default": "/img/products/figure_default.jpg",
+                "big": "/img/products/figure_big.jpg"
+            }
+        }
+    ],
+    "cs": [
+        { 
+            "id": 1, 
+            "name": "Figurka", 
+            "description": "Figurka samotného umělce Jana Kalába, vytvořená 3D tiskem, ručně stříkaná, v originální krabičce.",
+            "price": {
+                "eur": 36.99,
+                "czk": 900
+            },
+            "image": {
+                "default": "/img/products/figure_default.jpg",
+                "big": "/img/products/figure_big.jpg"
+            }
+        }
+    ]
+  }
+  

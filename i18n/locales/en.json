@@ -1,0 +1,17 @@
+{
+    "lang": "Language",
+    "currency": "Currency",
+    "cart-add": "Add to cart",
+    "shop-now": "Shop now",
+    "footer":  {
+        "heading": "Don't miss the next drop",
+        "newsletter": "Subscribe to our newletter and recive notinotification bout new relases.",
+        "unsubscribe": "You can unscribe any time.",
+        "rights": "All rights reserved.",
+        "created": "Created by"
+    },
+    "pages": {
+        "termsAndConditions": "Terms and Conditions",
+        "GDPR": "GDPR"
+    }
+}

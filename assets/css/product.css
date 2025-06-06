@@ -1,0 +1,42 @@
+.product {
+    & > .product-column {
+        width: calc(50% - 0.75rem);
+    }
+}
+
+.product-image {
+    position: relative;
+}
+
+.product-image_zoom {
+    position: absolute;
+    top: 1.25rem;
+    right: 1.25rem;
+    
+    cursor: pointer;
+}
+.product-image_zoom:hover path {
+    fill: var(--clr-black);
+}
+
+.product-data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    gap: 2.5rem;
+}
+
+@media (max-width: 767px) {
+    .product {
+        & > .product-column {
+            width: 100%;
+        }
+    }
+
+    .product-data {
+        gap: 1.25rem;
+        text-align: center;
+        align-items: center;
+    }
+}

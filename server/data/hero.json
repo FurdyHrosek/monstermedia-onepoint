@@ -1,0 +1,30 @@
+{
+    "en": [
+        { 
+            "id": 1, 
+            "imageURL": "/img/hero/banner-1.jpg",
+            "title": "NEXT LIMITED EDITION <br/>MAY 2025",
+            "link": "/"
+        },
+        { 
+            "id": 2, 
+            "imageURL": "/img/hero/banner-2.jpg",
+            "title": "Lorem ipsum dolor sit amet, <br/>consectetuer adipiscing elit.",
+            "link": "/"
+        }
+    ],
+    "cs": [
+        { 
+            "id": 1, 
+            "imageURL": "/img/hero/banner-1.jpg",
+            "title": "DALŠÍ LIMITOVANÁ EDICE <br/>KVĚTEN 2025",
+            "link": "/"
+        },
+        { 
+            "id": 2, 
+            "imageURL": "/img/hero/banner-2.jpg",
+            "title": "Lorem ipsum dolor sit amet, <br/>consectetuer adipiscing elit.",
+            "link": "/"
+        }
+    ]
+}

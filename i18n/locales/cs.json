@@ -1,0 +1,17 @@
+{
+    "lang": "Jazyk",
+    "currency": "Měna",
+    "cart-add": "Přidat do košíku",
+    "shop-now": "Nakupovat teď",
+    "footer":  {
+        "heading": "Nenechte si ujít další kapku",
+        "newsletter": "Přihlaste se k odběru našeho newsletteru a dostávejte upozornění na nová vydání.",
+        "unsubscribe": "Odhlásit se můžete kdykoli.",
+        "rights": "Všechna práva vyhrazena.",
+        "created": "Vytvořeno"
+    },
+    "pages": {
+        "termsAndConditions": "Smluvní podmínky",
+        "GDPR": "GDPR"
+    }
+}
